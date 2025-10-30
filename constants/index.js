@@ -5,7 +5,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"inputs": [
 			{
 				
-				"internalType": "address",
+				"internalType": 
 				"name": "owner",
 				"type": "address"
 			},
